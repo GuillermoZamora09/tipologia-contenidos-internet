@@ -1,0 +1,19 @@
+.container1{
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-style:normal;
+    
+}
+.intro{
+    font-size: 18px;
+    position: absolute;
+    top: 9em;
+    right: 3em;
+    left: 3em;
+    background-color: whitesmoke;
+    text-align: left;
+    
+}
